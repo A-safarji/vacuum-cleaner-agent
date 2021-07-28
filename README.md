@@ -1,5 +1,5 @@
 # Vacuum-Cleaner Python3
-This is a Python3 program that implements a simulator for a vacuum cleaner and it is introduction to Artificial Intelligence.
+This is a Python3 agent that implements a simulator for a vacuum cleaner and it is introduction to Artificial Intelligence.
 
 ## Screenshots
 ![](https://user-images.githubusercontent.com/20365333/127362376-99c4f5a3-e8d2-4043-a138-43cf77f2d5d5.png)
