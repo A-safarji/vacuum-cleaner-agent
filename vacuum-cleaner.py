@@ -1,3 +1,5 @@
+#Author A.Safarji
+
 import random
 
 def display(room):
