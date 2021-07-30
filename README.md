@@ -1,6 +1,7 @@
 # Vacuum-Cleaner Python3
 This is a Python3 agent that implements a simulator for a vacuum cleaner and it is introduction to Artificial Intelligence.
-
+- A smart agent that cleans rooms size of n * n 
+- Agent can move Up, Down, Left, Right + Calculate Performance each round. 
 ## Screenshots
 ![](https://user-images.githubusercontent.com/20365333/127362376-99c4f5a3-e8d2-4043-a138-43cf77f2d5d5.png)
 
